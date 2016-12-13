@@ -1,0 +1,6 @@
+node_modules
+dist
+.idea
+dist.crx
+dist.zip
+dist.pem
